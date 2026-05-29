@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.arniko.academy): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [arniko](https://status.arniko.academy), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Arniko Academy](https://arniko.academy), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/arniko-inc/arniko-status/workflows/Uptime%20CI/badge.svg)](https://github.com/arniko-inc/arniko-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/arniko-inc/arniko-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/arniko-inc/arniko-status/actions?query=workflow%3A%22Response+Time+CI%22)
