@@ -9,10 +9,12 @@ sites:
     url: https://api.arniko.academy/ping
     expectedStatusCodes:
       - 200
+    __dangerous__body_down_if_text_missing: "pong"
   - name: Beta API
     url: https://api-beta.arniko.academy/ping
     expectedStatusCodes:
       - 200
+    __dangerous__body_down_if_text_missing: "pong"
 
 status-website:
   cname: status.arniko.academy
